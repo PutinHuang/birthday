@@ -26,13 +26,13 @@ var config = {
         "不愿露面的大明星Cindy！": "./imgs/Cindy.jpg",
         "猪猪在做美食！":"./imgs/Cindy cooking.jpg",
         "给猪猪的花花！":"./imgs/flowers.jpg",
+        "今天的午饭！":"./imgs/lunch.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
